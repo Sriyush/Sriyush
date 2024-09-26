@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriyush" alt="sriyush" /></a> </p>
 
-- 🌱 I’m currently learning **AWS service, Machine Learning**
+- 🌱 I’m currently Working on **MERN Stack and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sriyush](https://github.com/Sriyush)
 
