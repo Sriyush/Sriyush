@@ -1,3 +1,5 @@
+[![An image of @sriyush's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sriyush)](https://holopin.io/@sriyush)
+
 <h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
 <h3 align="center">A passionate MERN stack developer/ Flutter dev from India</h3>
 
