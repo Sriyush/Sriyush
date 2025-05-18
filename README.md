@@ -1,7 +1,7 @@
 [![An image of @sriyush's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sriyush)](https://holopin.io/@sriyush)
 
 <h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
-<h3 align="center">A passionate MERN stack developer/ Flutter dev from India</h3>
+<h3 align="center">A passionate MERN stack developer/ Flutter dev </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriyush&label=Profile%20views&color=0e75b6&style=flat" alt="sriyush" /> </p>
 
@@ -18,8 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sriyush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush" height="30" width="40" /></a>
-<!-- <a href="https://kaggle.com/vedantvatsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vedantvatsa" height="30" width="40" /></a> -->
-<a href="https://instagram.com/sriyush_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/vedantvatsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-r
 <a href="https://www.leetcode.com/sriyush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush" height="30" width="40" /></a>
 </p>
 
