@@ -1,4 +1,4 @@
-[![An image of @sriyush's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sriyush)](https://holopin.io/@sriyush)
+<!-- [![An image of @sriyush's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sriyush)](https://holopin.io/@sriyush) -->
 
 <h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
 <h3 align="center">A passionate MERN stack developer/ Flutter dev </h3>
@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriyush&show_icons=true&locale=en&layout=compact" alt="sriyush" /></p>
 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sriyush&" alt="sriyush" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriyush&show_icons=true&locale=en" alt="sriyush" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriyush&" alt="sriyush" /></p>
