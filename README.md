@@ -47,9 +47,20 @@
 | :--- | :--- | :--- |
 | **[RizzLang](https://rizzlang.sriyush.fun/)** | A vibes-based programming language that compiles to C++. | `C++` `LLVM` `Flex` `Bison` |
 | **[DBSynchro](https://dbsynchro.sriyush.fun/)** | Real-time sync between Google Sheets and PostgreSQL. | `React` `Node.js` `PostgreSQL` |
+| **Waitlist Protocol** | On-chain waitlist for funding memecoin traders. | `Solana` `Next.js` `Tailwind` |
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <!-- Isometric Calendar -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sriyush&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriyush&layout=compact&theme=radical&hide_border=true&hide=html,css" height="150" alt="languages" />
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sriyush&theme=radical" alt="Profile Details" />
 </div>
