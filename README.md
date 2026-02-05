@@ -6,7 +6,7 @@
     <a href="https://linkedin.com/in/sriyush/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://twitter.com/0xBhargava_" target="_blank">
+    <a href="https://twitter.com/sriyush1" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
     </a>
     <a href="https://www.leetcode.com/sriyush/" target="_blank">
