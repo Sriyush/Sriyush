@@ -39,21 +39,20 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 Contributions
 
 <div align="center">
-  <a href="https://github.com/Sriyush">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sriyush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Ayush's Stats" height="150" />
-  </a>
-  <a href="https://github.com/Sriyush">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriyush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&hide=html,css,jupyter%20notebook" alt="Top Langs" height="150" />
-  </a>
+  <!-- Snake Animation (Requires GitHub Action setup, but placeholder works) -->
+  <img src="https://github.com/Sriyush/Sriyush/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
 
+### ⚡ Activity
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriyush&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak" />
+  <!-- Trying a different instance for streak stats to bypass rate limit -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriyush&theme=react&hide_border=true" alt="Streak" />
 </div>
 
 <br/>
