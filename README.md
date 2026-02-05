@@ -2,18 +2,20 @@
   <h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
   <h3 align="center">🚀 Full Stack Developer | Flutter Enthusiast | Compiler Engineer</h3>
   
-  <a href="https://linkedin.com/in/sriyush/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/0xBhargava_" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
-  </a>
-  <a href="https://www.leetcode.com/sriyush/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:srivastavasatyam2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <p align="center">
+    <a href="https://linkedin.com/in/sriyush/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/0xBhargava_" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+    </a>
+    <a href="https://www.leetcode.com/sriyush/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="mailto:srivastavasatyam2003@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 <br/>
@@ -39,24 +41,16 @@
 
 <br/>
 
-### 📊 Contributions
+### 🚀 Featured Projects
 
-<div align="center">
-  <!-- Snake Animation (Requires GitHub Action setup, but placeholder works) -->
-  <img src="https://github.com/Sriyush/Sriyush/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-### ⚡ Activity
-
-<div align="center">
-  <!-- Trying a different instance for streak stats to bypass rate limit -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriyush&theme=react&hide_border=true" alt="Streak" />
-</div>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[RizzLang](https://rizzlang.sriyush.fun/)** | A vibes-based programming language that compiles to C++. | `C++` `LLVM` `Flex` `Bison` |
+| **[DBSynchro](https://dbsynchro.sriyush.fun/)** | Real-time sync between Google Sheets and PostgreSQL. | `React` `Node.js` `PostgreSQL` |
+| **Waitlist Protocol** | On-chain waitlist for funding memecoin traders. | `Solana` `Next.js` `Tailwind` |
 
 <br/>
 
 <div align="center">
-  <i>Let's build something amazing together.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
