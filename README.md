@@ -3,18 +3,18 @@
   <h3 align="center">🚀 Full Stack Developer | Flutter Enthusiast | Compiler Engineer</h3>
   
   <p align="center">
-    <!-- <a href="https://linkedin.com/in/sriyush/" target="_blank">
+    <a href="https://linkedin.com/in/sriyush/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a> -->
+    </a>
     <a href="https://twitter.com/sriyush1" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
     </a>
-    <!-- <a href="https://www.leetcode.com/sriyush/" target="_blank">
+    <a href="https://www.leetcode.com/sriyush/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a> -->
-    <!-- <a href="mailto:srivastavasatyam2003@gmail.com">
+    <a href="mailto:srivastavasatyam2003@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a> -->
+    </a>
   </p>
 </div>
 
