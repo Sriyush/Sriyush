@@ -54,9 +54,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Isometric Calendar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sriyush&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriyush&layout=compact&theme=radical&hide_border=true&hide=html,css" height="150" alt="languages" />
+  <!-- Isometric Calendar -->  
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sriyush&theme=radical" height="150" alt="stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sriyush&layout=compact&theme=radical" height="150" alt="languages" />
 </div>
 
 <br/>
