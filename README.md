@@ -56,7 +56,7 @@
 <div align="center">
   <!-- Isometric Calendar -->  
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sriyush&theme=radical" height="150" alt="stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sriyush&layout=compact&theme=radical&hide=html" height="150" alt="languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sriyush&layout=compact&theme=radical&hide=html,css" height="150" alt="languages" />
 </div>
 
 <br/>
