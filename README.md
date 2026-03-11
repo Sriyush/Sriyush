@@ -11,7 +11,7 @@
     </a>
     <a href="https://www.leetcode.com/sriyush/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a> -->
+    </a>
     <a href="mailto:srivastavasatyam2003@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
