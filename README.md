@@ -47,7 +47,7 @@
 | :--- | :--- | :--- |
 | **[RizzLang](https://rizzlang.sriyush.fun/)** | A vibes-based programming language that compiles to C++. | `C++` `LLVM` `Flex` `Bison` |
 | **[DBSynchro](https://dbsynchro.sriyush.fun/)** | Real-time sync between Google Sheets and PostgreSQL. | `React` `Node.js` `PostgreSQL` |
-| **Waitlist Protocol** | On-chain waitlist for funding memecoin traders. | `Solana` `Next.js` `Tailwind` |
+| **[GitPulse](https://github.com/AxonStack/Gitpulse)** | CLI tool to track and analyze activity across multiple Git repositories. | `Go` `Git` `CLI` |
 
 <br/>
 
